@@ -8,8 +8,7 @@
 
 Topic | Sub-Topic | Link 
 :-- | :--: | :--: 
-Arrays | Array Basics | [ArrayBasics.java](ArrayBasics.java)
-
+Arrays | Array Basics | [ArrayBasic.java](ArrayBasic.java)
 
 # ARRAY ALGORITHMS
 [See array algorithms](./ALGORITHMS/ALGORITHMS.md)
