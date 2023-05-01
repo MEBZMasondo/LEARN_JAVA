@@ -1,0 +1,13 @@
+
+WINDOWS 8 AND 10
+ 
+- advanced system settings.
+- Advanced tab, click Environment Variables.
+- In the System variables section, click New.
+- Set JAVA_HOME as the Variable name and the path to the JDK installation as the Variable value and click OK.
+	- path example > C:\Program Files\Java\jdk1.8.0_111
+- Click OK and click Apply
+
+
+
+
