@@ -12,6 +12,6 @@ Topic | Sub-Topic | Link to code
 Arrays | Array Basics | [ArraysBasic.java](ArraysBasic.java)
 
 # ARRAY ALGORITHMS
-[See array algorithms](./ALGORITHMS/ALGORITHMS.md)
+[See array algorithms notes and code](./ALGORITHMS/ALGORITHMS.md)
 
 
