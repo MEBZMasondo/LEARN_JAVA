@@ -5,8 +5,8 @@
 - [ARRAY ALGORITHMS](#ARRAY-ALGORITHMS)
 
 # ARRAYS
-[See 1-Dimensional array summary notes](./ARRAYS_ONE_DIMENSIONAL/ARRAYS.md)
-[See multi-Dimensional array summary notes](./ARRAYS_MULTI_DIMENSIONAL/ARRAYS_MULTI.md)
+- [See 1-Dimensional array summary notes](./ARRAYS_ONE_DIMENSIONAL/ARRAYS.md)
+- [See multi-Dimensional array summary notes](./ARRAYS_MULTI_DIMENSIONAL/ARRAYS_MULTI.md)
 
 Topic | Sub-Topic | Link to code 
 :-- | :--: | :--: 
@@ -15,6 +15,6 @@ Arrays | Array Basics | [ArraysBasicMethod.java](./ARRAYS_ONE_DIMENSIONAL/src/Ar
 Arrays | Array Basics | [ArraysIntermediate.java](./ARRAYS_ONE_DIMENSIONAL/src/ArraysIntermediate.java)
 
 # ARRAY ALGORITHMS
-[See array algorithms notes and code](./ALGORITHMS/ALGORITHMS.md)
+- [See array algorithms notes and code](./ALGORITHMS)
 
 
