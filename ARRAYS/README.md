@@ -11,7 +11,7 @@
 Topic | Sub-Topic | Link to code 
 :-- | :--: | :--: 
 Arrays | Array Basics | [ArraysBasic.java](./ARRAYS_ONE_DIMENSIONAL/src/ArraysBasic.java)
-Arrays | Array Basics | [ArraysBasicMethod.java](./ARRAYS_ONE_DIMENSIONAL/src/ArraysBasic.java)
+Arrays | Array Basics | [ArraysBasicMethod.java](./ARRAYS_ONE_DIMENSIONAL/src/ArraysBasicMethod.java)
 Arrays | Array Basics | [ArraysIntermediate.java](./ARRAYS_ONE_DIMENSIONAL/src/ArraysIntermediate.java)
 
 # ARRAY ALGORITHMS
