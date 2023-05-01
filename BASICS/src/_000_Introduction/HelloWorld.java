@@ -1,4 +1,4 @@
-package _00_Introduction;
+
 public class HelloWorld {
     
     public static void main(String[] args) {

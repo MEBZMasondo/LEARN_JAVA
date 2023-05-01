@@ -1,4 +1,3 @@
-package _002_Input;
 
 import java.util.Scanner;
 
