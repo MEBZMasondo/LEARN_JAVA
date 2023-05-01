@@ -8,7 +8,7 @@
 
 Topic | Sub-Topic | Link 
 :-- | :--: | :--: 
-Arrays | Array Basics | [chat](https://discord.gg/syA242Z)
+Arrays | Array Basics | [ArrayBasics.java](ArrayBasics.java)
 
 
 # ARRAY ALGORITHMS
