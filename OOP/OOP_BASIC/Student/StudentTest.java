@@ -1,4 +1,3 @@
-package oop_Student;
 
 public class StudentTest {
 

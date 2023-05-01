@@ -1,4 +1,3 @@
-package oop_Vehicle;
 
 public class Truck extends Vehicle {
 

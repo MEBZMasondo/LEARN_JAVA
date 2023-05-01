@@ -12,7 +12,7 @@ class Circle {
 		this.radius = radius;
 	}
 	
-	// GETTERS AND SETTERS
+	// GETTERS/ACCESSORS AND SETTERS/MUTATORS
 	public double getRadius() {
 		return this.radius;
 	}

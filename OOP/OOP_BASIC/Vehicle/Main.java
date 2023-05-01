@@ -1,4 +1,3 @@
-package oop_Vehicle;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -89,7 +88,7 @@ public class Main {
       // Arrays of Type Vehicle
       
       System.out.println("MIXED : ARRAY OF TYPE VEHICLE");
-      int max = 10;
+      int max = 4;
       Vehicle [] v_arr = new Vehicle[max];
       
       v_arr[0] = new Vehicle(100, "Adam", "1 Rain Str");
