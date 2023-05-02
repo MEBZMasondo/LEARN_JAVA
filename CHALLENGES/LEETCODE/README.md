@@ -1,3 +1,0 @@
-
-# CHALLENGES _ LEETCODE
-
