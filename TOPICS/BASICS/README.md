@@ -4,7 +4,7 @@
 ## INTRODUCTION CODE
 Topic | Sub-Topic | Link to code file
 :-- | :--: | :--: 
-Basics | Introduction | [HelloWorld.java](./src/introduction/HelloWorld.java)
+Basics | Introduction | [HelloWorld.java](./src/basicNotes/HelloWorld.java)
 
 ## OUTPUT CODE
 Topic | Sub-Topic | Link to code file
