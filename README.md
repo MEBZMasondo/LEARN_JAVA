@@ -1,6 +1,8 @@
 # LEARN_JAVA
 
 - NB: **Some code may not be linked to the menu links, manually check some code files**
+- EXTRA CODE THAT MAY NOT BE LINKED TO NOTES [VIEW CODE](./CODE_COLLECTION)
+
  
 Topic | Sub-Topic | Link to topic
 :-- | :--: | :--: 
