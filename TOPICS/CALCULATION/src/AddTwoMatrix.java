@@ -5,10 +5,18 @@ class AddTwoMatrix {
     public static void main(String args[]) {
         
         // Run 1
-        int[][] a1 = {{1, 2}, {3, 4}};
-        int[][] a2 = {{2, 4}, {6, 8}};
+        int[][] A = {{1, 2}, {3, 4}};
+        int[][] B = {{2, 4}, {6, 8}};
 
-        int[][] res = addMatrices(a1, a2);
+        int[][] res = addMatrices(A, B);
+		
+		System.out.println("MATRIX A");
+		displayArray(A);
+		
+		System.out.println("MATRIX B");
+		displayArray(B);
+		
+		System.out.println("RESULT A + B");
         displayArray(res);
 
         // Run 2
