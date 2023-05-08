@@ -1,11 +1,11 @@
 # LEARN_JAVA
 
-- NB: **Some code may not be linked to the menu links, manually check some code files**
-- EXTRA CODE THAT MAY NOT BE LINKED TO NOTES [VIEW CODE](./CODE_COLLECTION)
-
+- VIEW CODE FILES SORTED BY STRUCTURED TOPICS [VIEW CODE](./TOPICS)
+- VIEW CODE FILES FOR MIXED TOPICS [VIEW CODE](./CODE_COLLECTION)
+- NB : **Some directories have notes**
  
-Topic | Sub-Topic | Link to topic
-:-- | :--: | :--: 
-Java Programming | Basics | [Go to topic](./TOPICS/BASICS)
-Java Programming | Arrays | [Go to topic](./TOPICS/ARRAYS)
-Java Programming | Mathematics and calculations | [Go to topic](./TOPICS/CALCULATION)
+Topic 					| Sub-Topic 
+:-- 					| :--: 
+Java Programming 		| Basics 
+Java Programming 		| Arrays 
+Java Programming 		| Mathematics and calculations 
