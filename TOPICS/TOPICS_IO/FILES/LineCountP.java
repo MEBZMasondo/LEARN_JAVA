@@ -1,10 +1,13 @@
+
 import java.io.*;
 import java.util.*;
+
 class LineCountP {
 	public static void main(String[] args) throws IOException {
-		File myFile = new File("text.txt");
+		
+		File myFile = new File("files/text.txt");
 		Scanner fli = new Scanner(myFile);
-		PrintWriter fo = new PrintWriter("output.txt");
+		PrintWriter fo = new PrintWriter("files/output.txt");
 
 		// line count
 		int lc = 0;
@@ -12,9 +15,10 @@ class LineCountP {
 			String line = fli.nextLine();
 			lc++;
 		}
+		
 		fli.close();
-		System.out.println("lc = " + lc);
-		fo.println("lc = " + lc);
+		System.out.println("lines counted = " + lc);
+		fo.println("lines counted = " + lc);
 
 		// word count
 		Scanner fwi = new Scanner(myFile);
@@ -24,8 +28,8 @@ class LineCountP {
 			wc++;
 		}
 		fwi.close();
-		System.out.println("wc = " + wc);
-		fo.println("wc = " + wc);
+		System.out.println("words counted = " + wc);
+		fo.println("words counted = " + wc);
 
 		// char count
 		Scanner fic = new Scanner(myFile);
@@ -40,8 +44,8 @@ class LineCountP {
 		}
 
 		fic.close();
-		System.out.println("chars = " + charCount);
-		fo.println("chars = " + charCount);
+		System.out.println("chararacters counted = " + charCount);
+		fo.println("chararacters counted = " + charCount);
 
 		fo.close();
 	}

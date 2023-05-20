@@ -1,0 +1,9 @@
+
+https://wiki.openjdk.org/display/OpenJFX
+
+FROM ORACLE
+https://jdk.java.net/javafx20/
+
+
+FROM GLUON
+https://gluonhq.com/products/javafx/

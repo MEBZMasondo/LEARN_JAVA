@@ -1,0 +1,3 @@
+lines counted = 4
+words counted = 20
+chararacters counted = 88
