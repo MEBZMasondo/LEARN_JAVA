@@ -1,4 +1,4 @@
-# LEARN_JAVA
+# LEARN JAVA
 
 - NB : **Some directories have notes**
  
